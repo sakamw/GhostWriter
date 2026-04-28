@@ -1,0 +1,4 @@
+.ghostwriter-page {
+  padding-top: var(--nav-height);
+  min-height: 100vh;
+}
